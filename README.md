@@ -1,2 +1,2 @@
-# Web-Dev-Task-1
+# Web dev js basics
 Learning Javascript!
